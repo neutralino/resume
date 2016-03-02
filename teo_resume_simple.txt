@@ -1,0 +1,81 @@
+WEE DON TEO - RESUME
+
+--------------------------------------
+CONTACT INFORMATION
+
+33 Terraview Blvd.
+Toronto, ON, M1R 4L8, Canada
+M 416-887-6881
+H 416-383-1568
+email: don.teo@gmail.com
+
+---------------------------------------
+OBJECTIVE
+
+To secure a position applying 5+ years of quantitative research, analysis, and software skills to solve challenging data-driven financial and business problems.
+
+---------------------------------------
+EDUCATION 
+
+Ph.D. Physics, Cornell University
+January, 2013
+Thesis:  Search for Supersymmetry with b-quark Jets and Missing Transverse Energy 
+         in pp Collisions at sqrt(s)=7 TeV
+
+M.Sc. Physics, Cornell University
+June, 2010
+
+B.Sc. Mathematics and Physics, University of Toronto
+June, 2007
+GPA: 3.7/4.0
+
+---------------------------------------
+AWARDS
+
+* Natural Sciences and Engineering Research Council of Canada Postgraduate Fellowship
+* American Association of Physics Teachers Outstanding Teaching Assistant of the Year
+* Dean's List
+* Samuel Beatty In-Course Award
+* Donald G. Ivey Scholarship in Physics
+
+---------------------------------------
+WORK EXPERIENCE
+
+* Graduate Researcher, Cornell University (2008 - 2013)
+
+- Member of the Compact Muon Solenoid experiment at the Large Hadron Collider of the CERN laboratory in Geneva, Switzerland.
+- Worked in tight-knit teams on large-scale data analysis projects that successfully measured the production rate of rare particles and that searched for as-yet-undiscovered particles.
+- Analysis responsibilities included the processing of datasets, the planning and optimization of the analysis strategy, the determination of selection efficiencies/systematic uncertainties, and the development of novel background-estimation methods.
+- Developed a suite of data quality monitoring visualization software tools that provided real-time diagnostics on the performance of the detector trigger systems.
+
+
+* Graduate Teaching Assistant, Cornell University (2007 - 2009)
+
+- Conducted weekly tutorial and laboratory sessions, prepared quizzes, and graded homework and examinations in fundamental physics courses for engineers and pre-med majors.  Taught and supervised a total of roughly 60 students per semester.  
+
+
+* Undergraduate Research Assistant, York University/University of Toronto (2006 - 2007)
+
+- Implemented pattern-finding and distortion correction methods in C++ for calibrating beam images using a proton beam monitor system prototype and custom-made Monte Carlo simulations.
+- Built a complete simulation model of the beam monitor system using proprietary ray-tracing software for studying the effects of system misalignment and beam size uncertainty on the final physics measurement.
+
+---------------------------------------
+COMPUTER SKILLS
+
+* Analysis Tools: Experience with financial data analysis techniques in R, Excel. Significant experience with ROOT data analysis software.  Past experience with Maple, Mathematica.
+* Languages: Proficient in C++. Working knowledge of Java, Python, SQL. Past experience in Perl, Unix shell scripts. Experience with CVS, SVN revision control systems.
+* Operating Systems: Extensive experience with Unix/Linux, Windows.
+
+---------------------------------------
+SELECTED PUBLICATIONS
+
+* Search for Supersymmetry in Events with b-quark Jets and Missing Transverse Energy in pp Collisions at 7 TeV, CMS Collaboration, 2012, Phys. Rev. D 86 072010
+* Measurement of the tt Production Cross Section in pp Collisions at 7 TeV in Lepton + Jets Events Using b-quark Jet Identification, CMS Collaboration, 2011, Phys. Rev. D 84 092004
+* Commissioning of the CMS High-Level Trigger with cosmic rays, CMS Collaboration, 2010, JINST 5 T03005
+
+---------------------------------------
+LANGUAGES
+
+* Fluent: English and Mandarin.  Intermediate: French, Cantonese.  Basic: Japanese.
+
+

@@ -1,0 +1,87 @@
+WEE DON TEO - RESUME
+
+--------------------------------------
+CONTACT INFORMATION
+
+33 Terraview Blvd.
+Toronto, ON, M1R 4L8, Canada
+M 416-887-6881
+H 416-383-1568
+email: don.teo@gmail.com
+
+---------------------------------------
+OBJECTIVE
+
+To secure a position applying quantitative research and analysis skills to solve financial modelling and risk assessment problems.
+
+---------------------------------------
+EDUCATION 
+
+Ph.D. Physics, Cornell University
+January, 2013
+Thesis:  Search for Supersymmetry with b-quark Jets and Missing Transverse Energy 
+         in pp Collisions at sqrt(s)=7 TeV
+Advisor: Peter Wittich
+
+M.Sc. Physics, Cornell University
+June, 2010
+
+B.Sc. Mathematics and Physics, University of Toronto
+June, 2007
+GPA: 3.7/4.0
+
+---------------------------------------
+WORK EXPERIENCE
+
+* Graduate Research Scientist, Cornell University (08/2008 - 01/2013)
+
+Member of the Compact Muon Solenoid (CMS) experiment at the CERN laboratory in Geneva, Switzerland.  Developed a suite of data quality monitoring (DQM) visualization tools (written in C++ and Python) for the CMS detector trigger systems. The tools provide the DQM shift crew real-time diagnostics on the performance of the trigger systems and issue alarms when unexpected trigger rates are detected.  Worked in tight-knit teams on two large-scale data analysis projects in (a) the first measurement at CMS of the production rate of the top quark and (b) the search for new-physics particles.  Analysis responsibilities included the processing and storing of datasets, the optimization of the event selection strategy, the evaluation of efficiencies and systematic uncertainties, and the development of novel background-estimation methods.  
+
+
+* Graduate Teaching Assistant, Cornell University (08/2007 - 05/2009)
+
+Conducted weekly tutorial and laboratory sessions, prepared quizzes, and graded homework and examinations in fundamental physics courses for engineers and pre-med majors.  Taught and supervised a total of roughly 60 students per semester.  Graded for advanced graduate course in quantum field theory.
+
+
+* Summer Research Assistant, York University (05/2006 - 08/2006)
+
+Integral member of the proton beam monitor group for the Tokai-to-Kamioka neutrino physics experiment. Implemented pattern-finding and distortion correction methods for calibrating beam images using a beam monitor system prototype and with custom-made ray-tracing simulations.
+
+
+* Summer Research Assistant, University of Toronto (05/2004-08/2004)
+
+Developed a Fabry-Perot interferometer for laser calibration in the quantum optics physics group.  Repaired and improved functionality of laser diode modules.
+
+
+---------------------------------------
+HONOURS AND AWARDS
+
+* NSERC (Natural Sciences and Engineering Research Council of Canada) Postgraduate Fellowship, 2009-2012
+* AAPT (American Association of Physics Teachers) Outstanding Teaching Assistant of the Year, 2008
+* Samuel Beatty In-Course Award, University of Toronto, 2007
+* Donald G. Ivey Scholarship in Physics, University of Toronto, 2004
+
+---------------------------------------
+TECHNICAL SKILLS
+
+* Analysis Tools: Significant experience with ROOT data analysis framework. Past experience in Excel, Maple, Mathematica, NumPy, pandas, R.
+* Programming Languages: Proficient in C++. Working knowledge of Java, Python.  Past experience in Perl, Unix shell scripts. 
+* Experience with CVS, SVN, Git revision control systems.
+* Operating Systems: Significant experience with Unix/Linux, Windows.
+* Experience with batch submission systems, grid computing, cloud computing.
+* Experience with large-scale data analysis (>100 TB), Monte Carlo simulations, and data mining techniques.
+* Past experience with SQL in Oracle databases
+
+
+---------------------------------------
+SELECTED PUBLICATIONS
+
+* Search for Supersymmetry in Events with b-quark Jets and Missing Transverse Energy in pp Collisions at 7 TeV, CMS Collaboration, 2012, Phys. Rev. D 86 072010
+* Measurement of the tt Production Cross Section in pp Collisions at 7 TeV in Lepton + Jets Events Using b-quark Jet Identification, CMS Collaboration, 2011, Phys. Rev. D 84 092004
+* Commissioning of the CMS High-Level Trigger with cosmic rays, CMS Collaboration, 2010, JINST 5 T03005
+
+---------------------------------------
+LANGUAGES
+
+* Fluent: English and Mandarin.  Intermediate: French, Cantonese.  Basic: Japanese.
+

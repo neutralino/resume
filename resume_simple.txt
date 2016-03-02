@@ -1,0 +1,118 @@
+Wee Don Teo - Curriculum Vitae
+
+--------------------------------------
+Contact Information 
+
+33 Terraview Blvd.
+Toronto, ON, M1R 4L8, Canada
+M 416-887-6881
+H 416-383-1568
+email: don.teo@gmail.com
+
+---------------------------------------
+Education 
+
+Ph.D. Physics, Cornell University
+January, 2013
+Thesis:  Search for Supersymmetry with b-quark Jets and Missing Transverse Energy 
+         in pp Collisions at sqrt(s)=7 TeV
+Advisor: Peter Wittich
+
+M.Sc. Physics, Cornell University
+June, 2010
+
+B.Sc. Mathematics and Physics, University of Toronto
+June, 2007
+Graduated with High Distinction
+
+---------------------------------------
+Research Experience
+
+Compact Muon Solenoid (CMS) Experiment
+Ph.D. Student, Cornell University
+August, 2008 - January, 2013
+
+* Member of the CMS experiment at the CERN laboratory in Geneva, Switzerland.
+* Developed a suite of data quality monitoring (DQM) visualization software tools for the detector trigger systems. The tools provide the DQM shift crew real-time diagnostics on the performance of the trigger systems and issue alarms when unexpected trigger rates are detected.
+* Worked in tight-knit teams on large-scale data analysis projects for the measurement of the production rate of the top quark and the search for new-physics particles. Analysis responsibilities
+included the processing and storing of the datasets, the optimization of the event selection strategy, the determination of efficiencies and systematic uncertainties, and the development of novel
+background-estimation methods.
+
+
+Tokai to Kamioka (T2K) Experiment
+Undergraduate Research Project, University of Toronto
+September, 2006 - May, 2007
+
+* Integral member of the Optical Transition Radiation (OTR) proton beam monitor group.
+* Built simulation model of OTR beam monitor system in ASAP ray-tracing software framework and studied effects of system misalignment and light efficiency on beam image.
+* Evaluated impact of beam size uncertainty on final neutrino measurements using Monte Carlo simulations.
+
+Summer Research Assistant, York University
+May, 2006 - August, 2006
+
+* Implemented pattern-finding and distortion correction methods for calibrating beam images using OTR system prototype and custom-made ray-tracing simulations.
+
+Collider Detector at Fermilab (CDF) Experiment
+Undergraduate Research Project, University of Toronto
+January, 2006 - May, 2006
+
+* Studied various systematic uncertainties on the measurement of the top quark mass using the Neutrino Weighting Algorithm method in the dilepton decay channel.
+
+Quantum Optics Group
+Summer Research Assistant, University of Toronto
+May, 2004 - August, 2004
+
+* Developed a Fabry-Perot interferometer for laser calibration.
+* Repaired and improved functionality of laser diode modules using LabVIEW platform.
+
+---------------------------------------
+Teaching Experience
+
+Cornell University, Ithaca, New York, USA
+Teaching Assistant and Grader
+Fall 2007-Spring 2009
+
+* Conducted weekly tutorial and laboratory sessions, prepared quizzes, and graded homework and examinations in full-year fundamental physics courses for engineers and pre-med majors.  Taught and supervised a total of roughly 60 students per semester.  
+* Graded for advanced graduate course in quantum field theory.
+
+
+---------------------------------------
+Honors and Awards
+
+* NSERC (Natural Sciences and Engineering Research Council of Canada) Postgraduate Fellowship, 2009-2012
+* AAPT (American Association of Physics Teachers) Outstanding Teaching Assistant of the Year, 2008
+* Samuel Beatty In-Course Award, University of Toronto, 2007
+* Donald G. Ivey Scholarship in Physics, University of Toronto, 2004
+
+---------------------------------------
+Technical Skills 
+
+* Analysis Tools: Significant experience with ROOT data analysis framework. Past experience in Maple, Mathematica, NumPy, pandas.  Basic familiarity with R.
+* Programming Languages: Proficient in C++. Working knowledge of Python. Past experience in Java, Perl, Unix shell scripts. 
+* Experience with CVS, SVN, Git revision control systems.
+* Operating Systems: Significant experience with Unix/Linux, Windows.
+* Experience with batch submission systems, grid computing, cloud computing.
+* Experience with large-scale data analysis (>100 TB), Monte Carlo simulations, and multivariate regression techniques.
+* Experience with SQL in Oracle databases
+
+
+---------------------------------------
+Selected Publications 
+
+* Search for Supersymmetry in Events with b-quark Jets and Missing Transverse Energy in pp Collisions at 7 TeV, CMS Collaboration, 2012, Phys. Rev. D 86 072010
+* Measurement of the tt Production Cross Section in pp Collisions at 7 TeV in Lepton + Jets Events Using b-quark Jet Identification, CMS Collaboration, 2011, Phys. Rev. D 84 092004
+* CMS Data Processing Workflows during an Extended Cosmic Ray Run, CMS Collaboration, 2010, JINST 5 T03006
+* Commissioning of the CMS High-Level Trigger with cosmic rays, CMS Collaboration, 2010, JINST 5 T03005
+
+---------------------------------------
+Conference Talks, Workshops, and Schools
+
+* Search for new physics in events with b-jets and missing transverse energy in pp collisions at 7 TeV, Parallel talk at APS 2012 April Meeting, 31 March to 3 April 2012, Atlanta, GA, USA
+* Monte Carlo Tools for Beyond the Standard Model Physics, 22-24 March 2012, Cornell University, Ithaca, NY, USA
+* Excellence in Detectors and Instrumentation Technologies, 13-24 February 2012, FNAL, Batavia, IL, USA
+
+---------------------------------------
+Languages
+
+* Fluent: English and Mandarin.  Intermediate: French, Cantonese.  Basic: Japanese.
+
